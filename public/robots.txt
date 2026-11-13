@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://kota-chemistry-gaya.vercel.app/sitemap.xmlgit add public/sitemap.xml public/robots.txt
-git commit -m "Add SEO sitemap and robots.txt"
-git push origin main
+Sitemap: https://kota-chemistry-gaya.vercel.app/sitemap.xml
